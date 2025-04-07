@@ -83,9 +83,12 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 ---
 
 📊 6. Using the Seaborn Library  
-![Seaborn Chart 1](./screenshots/seaborn_1.png)  
-![Seaborn Chart 2](./screenshots/seaborn_2.png)  
-![Seaborn Chart 3](./screenshots/seaborn_3.png)
+
+👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/24.%20Using%20the%20seaborn%20library.png
+
+👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/25.%20Using%20the%20seaborn%20library.png
+
+👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/26.%20Using%20the%20seaborn%20library.png
 
 ---
 
