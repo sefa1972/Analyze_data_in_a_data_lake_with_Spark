@@ -49,10 +49,14 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 ---
 
 📊 3. Analyzing Data in a DataFrame  
-![DataFrame Analysis 1](./screenshots/analyze_data_in_dataframe_1.png)  
-![DataFrame Analysis 2](./screenshots/analyze_data_in_dataframe_2.png)  
-![DataFrame Analysis 3](./screenshots/analyze_data_in_dataframe_3.png)  
-![DataFrame Analysis 4](./screenshots/analyze_data_in_dataframe_4.png)
+
+👉 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/12.%20Analyze%20data%20in%20a%20dataframe.png
+
+👉 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/13.%20Analyze%20data%20in%20a%20dataframe.png
+
+👉 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/14.%20Analyze%20data%20in%20a%20dataframe.png
+
+👉 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/15.Analyze%20data%20in%20a%20dataframe.png
 
 ---
 
