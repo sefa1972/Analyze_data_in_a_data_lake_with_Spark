@@ -23,7 +23,7 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 🖼️ Screenshots
 
 📁 1. Viewing Files in the Data Lake  
-![View Files 1](./screenshots/view_files_data_lake_1.png)  
+![View Files 1](https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/1.%20View%20files%20in%20the%20data%20lake.png.)  
 ![View Files 2](./screenshots/view_files_data_lake_2.png)  
 ![View Files 3](./screenshots/view_files_data_lake_3.png)  
 ![View Files 4](./screenshots/view_files_data_lake_4.png)  
