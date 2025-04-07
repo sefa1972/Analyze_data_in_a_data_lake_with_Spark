@@ -61,8 +61,10 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 ---
 
 📝 4. Query Data Using Spark SQL  
-![SQL Query 1](./screenshots/query_data_spark_sql_1.png)  
-![SQL Query 2](./screenshots/query_data_spark_sql_2.png)
+
+👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/16.Query%20data%20using%20Spark%20SQL.png
+
+👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/17.%20Query%20data%20using%20Spark%20SQL.png
 
 ---
 
