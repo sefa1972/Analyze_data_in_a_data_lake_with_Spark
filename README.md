@@ -23,24 +23,19 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 🖼️ Screenshots
 
 📁 1. Viewing Files in the Data Lake  
-✅ https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/1.%20View%20files%20in%20the%20data%20lake.png
-
-✅ https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/2.View%20files%20in%20the%20data%20lake.png
-
-✅ https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/3.%20View%20files%20in%20the%20data%20lake.png
-
-✅ https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/4.%20View%20files%20in%20the%20data%20lake.png
-
-✅ https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/5.%20View%20files%20in%20the%20data%20lake.png
-
-✅ https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/6.%20View%20files%20in%20the%20data%20lake.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/1.%20View%20files%20in%20the%20data%20lake.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/2.View%20files%20in%20the%20data%20lake.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/3.%20View%20files%20in%20the%20data%20lake.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/4.%20View%20files%20in%20the%20data%20lake.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/5.%20View%20files%20in%20the%20data%20lake.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/6.%20View%20files%20in%20the%20data%20lake.png
 
 🔍 2. Exploring Data Using Spark  
-![Exploring Data 1](./screenshots/exploring_data_spark_1.png)  
-![Exploring Data 2](./screenshots/exploring_data_spark_2.png)  
-![Exploring Data 3](./screenshots/exploring_data_spark_3.png)  
-![Exploring Data 4](./screenshots/exploring_data_spark_4.png)  
-![Exploring Data 5](./screenshots/exploring_data_spark_5.png)
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/7.exploring%20data%20using%20spark.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/8.%20exploring%20data%20using%20spark.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/9.%20Exploring%20data%20using%20spark.png
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/10.%20exploring%20data%20using%20spark.png 
+👉https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/11.%20Exploring%20data%20using%20spark.png
 
 ---
 
