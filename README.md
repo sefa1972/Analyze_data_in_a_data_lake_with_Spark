@@ -71,9 +71,13 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 📊 5. Visualizing Data with Spark  
 
 👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/18.Visualize%20data%20with%20Spark.png
+
 👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/19.Visualize%20data%20with%20Spark.png
+
 👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/20.%20Visualize%20data%20with%20Spark.png
+
 👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/21.%20Visualize%20data%20with%20Spark.png
+
 👇 https://github.com/sefa1972/Analyze_data_in_a_data_lake_with_Spark/blob/main/screenshots/22.%20Visualize%20data%20with%20Spark.png
 
 ---
