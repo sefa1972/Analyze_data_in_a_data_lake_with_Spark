@@ -93,31 +93,59 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 ---
 
 📦 ProjectFolder
+
  ┣ 📜 README.md
+ 
  ┣ 📜 notebook.ipynb
+ 
  ┗ 📂 screenshots
+ 
     ┣ view_files_data_lake_1.png
+    
     ┣ view_files_data_lake_2.png
+    
     ┣ view_files_data_lake_3.png
+    
     ┣ view_files_data_lake_4.png
+    
     ┣ view_files_data_lake_5.png
+    
     ┣ view_files_data_lake_6.png
+    
     ┣ exploring_data_spark_1.png
+    
     ┣ exploring_data_spark_2.png
+    
     ┣ exploring_data_spark_3.png
+    
     ┣ exploring_data_spark_4.png
+    
     ┣ exploring_data_spark_5.png
+    
     ┣ analyze_data_in_dataframe_1.png
+    
     ┣ analyze_data_in_dataframe_2.png
+    
     ┣ analyze_data_in_dataframe_3.png
+    
     ┣ analyze_data_in_dataframe_4.png
+    
     ┣ query_data_spark_sql_1.png
+    
     ┣ query_data_spark_sql_2.png
+    
     ┣ visualize_data_spark_1.png
+    
     ┣ visualize_data_spark_2.png
+    
     ┣ visualize_data_spark_3.png
+    
     ┣ visualize_data_spark_4.png
+    
     ┣ visualize_data_spark_5.png
+    
     ┣ seaborn_1.png
+    
     ┣ seaborn_2.png
+    
     ┗ seaborn_3.png
