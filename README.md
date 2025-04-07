@@ -20,6 +20,11 @@ This project demonstrates how to analyze and visualize large datasets using Azur
 - Results were presented in graphical form.
 - All Azure resources were deleted after completion to minimize costs.
 
+  ## Notebook
+
+The analysis was conducted using the **`notebook.ipynb`**. You can view or run it on GitHub by clicking the link below:
+[Open the notebook](./notebook.ipynb)
+
 🖼️ Screenshots
 
 📁 1. Viewing Files in the Data Lake  
